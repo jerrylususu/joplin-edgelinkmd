@@ -1,6 +1,6 @@
 # Edge Link MD
 
-When pasting URL copied from Microsoft Edge address bar, automatically convert it to a Markdown link with title and URL.
+(Joplin Plugin) When pasting URL copied from Microsoft Edge address bar, automatically convert it to a Markdown link with title and URL.
 
 Uses the special HTML clipboard format set by Microsoft Edge when copying URL from address bar. No additional web request is generated and all the information is extracted locally.
 
@@ -8,7 +8,7 @@ By default the keyboard shortcut is `Ctrl+Shift+V`, but you may change it as you
 
 Note that when using `Ctrl+Shift+V`, the defualt CodeMirror paste event is prevented, which may result in conflict with other plugins. 
 
-See [my post on Joplin Discourse](https://discourse.joplinapp.org/t/feature-request-include-title-when-pasting-url-from-microsoft-edge/23533/4) for more info.
+See [my post on Joplin Discourse](https://discourse.joplinapp.org/t/edge-link-md-when-pasting-url-copied-from-edge-address-bar-convert-it-to-a-markdown-link/23533) for more info.
 
 
 ---
