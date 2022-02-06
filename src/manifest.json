@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "me.nekonull.edgelinkmd",
+	"app_min_version": "2.6.10",
+	"version": "1.0.0",
+	"name": "Edge URL to Markdown Link",
+	"description": "When pasting URL copied from Microsoft Edge address bar, automatically convert it to a Markdown link with title and URL",
+	"author": "Neko Null",
+	"homepage_url": "https://discourse.joplinapp.org/t/feature-request-include-title-when-pasting-url-from-microsoft-edge/23533/4",
+	"repository_url": "https://github.com/jerrylususu/joplin-edgelinkmd",
+	"keywords": ["joplin-plugin", "copy-paste", "url", "link"]
+}
