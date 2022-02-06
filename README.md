@@ -1,5 +1,7 @@
 # Edge Link MD
 
+![Demo](joplin_edgelinkmd_demo.gif)
+
 (Joplin Plugin) When pasting URL copied from Microsoft Edge address bar, automatically convert it to a Markdown link with title and URL.
 
 Uses the special HTML clipboard format set by Microsoft Edge when copying URL from address bar. No additional web request is generated and all the information is extracted locally.
